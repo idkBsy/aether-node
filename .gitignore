@@ -1,0 +1,9 @@
+# SUMMARY: Standard version control exclusions for AETHER-NODE.
+
+/target/
+*.o
+*.hip.o
+*.a
+.env
+*.log
+bin/aether-node

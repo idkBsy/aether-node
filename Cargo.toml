@@ -1,0 +1,17 @@
+# SUMMARY: Cortex Layer Manifest for AETHER-NODE rust components.
+
+[package]
+name = "aether-node"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+polars = { version = "0.38", features = ["lazy"] }
+clap = { version = "4", features = ["derive"] }
+ratatui = "0.26"
+crossterm = "0.27"
+libc = "0.2"
+dashmap = "6.1.0"
+thiserror = "2.0.18"
+async-trait = "0.1.89"
