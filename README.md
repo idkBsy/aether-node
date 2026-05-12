@@ -1,6 +1,6 @@
 <div align="center">
   <h1>AETHER-NODE</h1>
-  <p><strong>Advanced Hardware OSINT & Silicon Fingerprinting Engine</strong></p>
+  <p><strong>Hardware OSINT & Silicon Fingerprinting Engine</strong></p>
   <p><i>An experimental project by <b>idkBsy</b>.</i></p>
 </div>
 
